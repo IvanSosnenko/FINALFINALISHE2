@@ -1,0 +1,31 @@
+.header_top{
+    position: absolute;
+    width: 1906px;
+    height: 190px;
+    background: rgba(31, 167, 142, 0.63);
+    }
+    .header_top2 {
+      text-align: right;
+      font-size: 28px;
+      color: #000000;
+    }
+    
+    .text {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding-top: 20px;
+    }
+
+    .intro {
+        position: absolute;
+      width: 1906px;
+      height: 400px;
+      background: #6C8F97;
+      margin-top: 150px;
+      }
+      
+      .img {
+        padding-left: 800px;
+        padding-top: 60px;
+      }
